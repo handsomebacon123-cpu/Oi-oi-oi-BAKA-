@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body style="margin: 0; background: black; overflow: hidden;">
-    <canvas id="game"></canvas>
-    <script src="Ihateneeply"></script>
-</body>
-</html>
-
