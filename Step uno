@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body style="margin: 0; background: skyblue; overflow: hidden;">
+    <canvas id="game"></canvas>
+    <script src="game.js"></script>
+</body>
+</html>
+
