@@ -1,5 +1,5 @@
 // 1. SCREEN SETUP
-const canvas = document.getElementById("gameCanvas");
+const canvas = document.getElementById("gameCanvas"); // finds the canvas
 const ctx = canvas.getContext("2d");
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
