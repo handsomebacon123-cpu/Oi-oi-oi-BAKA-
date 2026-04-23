@@ -1,1 +1,2 @@
-
+let player = { x: 200, y: 200, size: 40, speed: 4 };
+let nextbot = { x: 50, y: 50, size: 60, speed: 2.5 };
